@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "shacom": "shacom",
+    "default": "shacom"
+  }
+}
